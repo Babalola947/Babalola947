@@ -1,0 +1,119 @@
+body {
+   background-image: url(photo.jpg);
+}
+table {
+
+   border-collapse: separate;
+
+   border-spacing: 10px 20px;
+
+}
+
+caption {
+
+   caption-side: top;
+
+}
+
+table {
+
+   border-collapse: separate;
+
+   empty-cells: hide;
+
+}
+
+table {
+
+   border-collapse: separate;
+
+   width: 100%;
+   border: 1px solid gray;
+
+}
+ 
+td {
+
+   border: 1px solid gray;
+
+}
+
+table.auto {
+
+   table-layout: auto;
+
+}
+
+table.fixed {
+
+   table-layout: fixed;
+
+}
+
+span {
+
+   display: block;
+
+}
+
+div.hidden {
+
+   display: none;
+
+}
+
+p.position_static {
+
+   position:static;
+
+   top: 30px;
+
+   right: 5px;
+
+   color: red;
+
+}
+
+p.position_fixed {
+
+   position: fixed;
+
+   top: 30px;
+
+   right: 5px;
+
+   color: red;
+
+}
+
+.floating {
+
+   float: right;
+
+}
+
+.clearing {
+    
+   clear: both;
+
+}
+
+div#me {
+
+  width: 150px;
+
+  height: 150px;
+
+  background-color: LightBlue;
+
+  float: left;
+  Overflow: scroll;
+}
+.blue {
+   z-index: 3; 
+   position: relative;
+}
+.red {
+   z-index: 2;
+   position: relative;
+}

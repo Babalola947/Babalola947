@@ -1,0 +1,45 @@
+ body {
+
+      Background-color: brown;
+
+      Color: white;
+
+      margn: 0;
+
+
+      font-family: 'times new roman', sans-serif;
+
+      Font-size: 35px
+;
+      
+      
+}
+
+#header {
+
+     align: center;
+
+     background-color: yellow;
+
+     Color: blue;
+
+     height:  130px;
+
+     line-height: 150px;
+
+     Font-size: 25px;
+
+     Text-decoration: underline;
+
+     Text-align: center;
+
+}
+
+h1 {
+     Color: blue;
+     Font-size: 50pt;
+     Text-shadow: 10px 4px 12px blue;
+
+     Text-transform: uppercase;
+}
+
